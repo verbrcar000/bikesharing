@@ -20,3 +20,11 @@ This visualization demonstrates where customers pick their rental bikes up most 
 
 ![summary_table](Screenshot5.png)
 This heat map clearly shows us that CitiBikes' subscribers rent bikes from the company much more than regular customers. This tells us that gaining a strong subscriber base will be essential for the success of the business. The map also tells us that men rent bikes far more than women and that customers rent bikes on weekdays much more than weekends. This might mean that we should consider males to be our target market but it might also mean that we are missing out on a huge part of the market (females) and should find new ways to reach that market. Plus, we can assume that, at least in New York, people use CitiBikes to travel to and from work more than for any other purpose because of the fact that they are used most often on weekends.
+
+![summary_table](Screenshot6.png)
+This heat map confirms that customers usually use CitiBikes to travel to and from work during the week. However, it also tells us that during the weekend, customers tend to rent bikes in the middle of the day rather than in the morning and evening as they do during the week.
+
+![summary_table](Screenshot7.png)
+This chart once again demonstrates that the average trip duration is somewhere around 20 minutes and that men are much heavier users of CitiBikes' services than women.
+
+## Summary 
